@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Code Fellows Resources:
     # [Bash Functions] - (https://ryanstutorials.net/bash-scripting-tutorial/bash-functions.php)
     # [Bash Tutoria] -(https://codefellows.github.io/ops-201-guide/curriculum/class-03/challenges/demo/bash.html)
