@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Code Fellows Resources:
     # [Linux lshw Command Tutorial for Beginners] (https://www.howtoforge.com/linux-lshw-command/)
     # [How to Use the Linux Grep Command] (https://careerkarma.com/blog/linux-grep-command/)
